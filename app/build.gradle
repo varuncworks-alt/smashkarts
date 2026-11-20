@@ -39,7 +39,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.google.android.material:material:1.11.0'
     // Google Filament PBR 3D Engine (ACES Tone Mapping, Bloom, Shadows, GLB Loader)
-    implementation 'com.google.android.filament:filament-android:1.51.4'
-    implementation 'com.google.android.filament:filament-utils-android:1.51.4'
-    implementation 'com.google.android.filament:gltfio-android:1.51.4'
+    implementation 'com.google.android.filament:filament-android:1.57.1'
+    implementation 'com.google.android.filament:filament-utils-android:1.57.1'
+    implementation 'com.google.android.filament:gltfio-android:1.57.1'
 }
